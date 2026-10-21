@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Charaf Souita 👋
 
 I'm a full-stack developer and student at 1337, currently deep-diving into systems architecture, containerization, and modern web applications. 
 
